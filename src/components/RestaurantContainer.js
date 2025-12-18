@@ -1,10 +1,12 @@
 import RestaurantCard from "./RestaurantCard";
-import resList from "../utils/mockData";
+import Shimmer from "./Shimmer";
 
-const RestaurantContainer = () => {
-  return (
+const RestaurantContainer = ({ restaurantList }) => {
+  return restaurantList.length === 0 ? (
+    <Shimmer />
+  ) : (
     <div className="res-container">
-      {resList?.data?.cards.map((card) => {
+      {restaurantList?.map((card) => {
         const { id, name, cuisines, avgRating, sla, cloudinaryImageId } =
           card?.card?.card?.info;
         return (

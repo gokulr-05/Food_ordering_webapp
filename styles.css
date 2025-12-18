@@ -42,6 +42,11 @@
   font-size: 24px;
 }
 
+.nav-link {
+  margin: 10px;
+  font-size: 24px;
+}
+
 .body{
   padding: 10px;
 }
@@ -101,4 +106,27 @@
 
 .filter{
   margin: 10px 5px;
+}
+
+.shimmerContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmerCard{
+  width: 200px;
+  height: 400px;
+  margin: 10px;
+  background-color: #DBDBDB;
+}
+
+.loginBtn{
+  
+}
+
+
+.filter-container{
+  display: flex;
+  margin: 20px 0px;
+  gap: 15px;
 }
