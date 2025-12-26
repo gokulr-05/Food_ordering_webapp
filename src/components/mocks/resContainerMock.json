@@ -1,0 +1,980 @@
+[
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "882514",
+          "name": "Millet Express",
+          "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/10/48ff68a6-2b92-408a-ad22-c96c07f30228_80fff8a0-99fa-43e6-98ca-08b0734d0a50.jpg_compressed",
+          "locality": "Eagattur",
+          "areaName": "OMR",
+          "costForTwo": "₹200 for two",
+          "cuisines": ["Healthy Food", "South Indian"],
+          "avgRating": 4.1,
+          "parentId": "10639",
+          "avgRatingString": "4.1",
+          "totalRatingsString": "936",
+          "promoted": true,
+          "adTrackingId": "cid=d98d5d06-5e9c-4485-a22e-2dbdb71cab92~p=0~adgrpid=d98d5d06-5e9c-4485-a22e-2dbdb71cab92#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=882514~plpr=COLLECTION~eid=286c6682-6cae-45ae-b183-dbbf43f416a6~srvts=1766720368607~collid=80424",
+          "sla": {
+            "deliveryTime": 43,
+            "lastMileTravel": 9.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "40-45 mins",
+            "lastMileTravelString": "9.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 15:00:00",
+            "opened": true
+          },
+          "badges": {
+            "imageBadges": [
+              {
+                "imageId": "High%20Protein/rx%20tag%205.png",
+                "description": "High Protein"
+              }
+            ]
+          },
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {
+                "badgeObject": [
+                  {
+                    "attributes": {
+                      "imageId": "High%20Protein/rx%20tag%205.png",
+                      "description": "High Protein"
+                    }
+                  }
+                ]
+              },
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "50% OFF",
+            "discountTag": "FLAT DEAL",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "--"
+            }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+          "campaignId": "d98d5d06-5e9c-4485-a22e-2dbdb71cab92"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=882514&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "184526",
+          "name": "Astoria Veg",
+          "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/13/8102c393-44ed-4b51-b53f-31748dadce2a_03db9f11-2b00-47c1-8e5e-7976750b0494.jpg",
+          "locality": "Thuraipakkam",
+          "areaName": "Thoraipakkam",
+          "costForTwo": "₹350 for two",
+          "cuisines": ["Indian", "Chinese", "Beverages"],
+          "avgRating": 4.6,
+          "parentId": "17259",
+          "avgRatingString": "4.6",
+          "totalRatingsString": "17K+",
+          "sla": {
+            "deliveryTime": 23,
+            "lastMileTravel": 2.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "2.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 23:00:00",
+            "opened": true
+          },
+          "badges": {
+            "imageBadges": [
+              {
+                "imageId": "android/static-assets/icons/big_rx.png",
+                "description": "bolt!"
+              },
+              {
+                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                "description": "pureveg"
+              }
+            ]
+          },
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {
+                "badgeObject": [
+                  {
+                    "attributes": {
+                      "imageId": "android/static-assets/icons/big_rx.png",
+                      "description": "bolt!"
+                    }
+                  },
+                  {
+                    "attributes": {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  }
+                ]
+              },
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "₹100 OFF",
+            "subHeader": "ABOVE ₹199",
+            "discountTag": "FLAT DEAL",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "4.2",
+              "ratingCount": "4.6K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=184526&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "128420",
+          "name": "Hotel Sri Lakshmi Sagar",
+          "cloudinaryImageId": "mys3qxhmyjafn85qchwn",
+          "locality": "Thiruvanmiyur",
+          "areaName": "Thiruvanmiyur",
+          "costForTwo": "₹300 for two",
+          "cuisines": ["North Indian", "South Indian", "Indian", "Juices"],
+          "avgRating": 4.7,
+          "parentId": "17428",
+          "avgRatingString": "4.7",
+          "totalRatingsString": "12K+",
+          "promoted": true,
+          "adTrackingId": "cid=c60daef3-ba87-4935-951d-de92eaf38835~p=1~adgrpid=c60daef3-ba87-4935-951d-de92eaf38835#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=128420~plpr=COLLECTION~eid=67b3b31c-c72d-4b53-9c8a-dea363d29f7e~srvts=1766720368607~collid=80424",
+          "sla": {
+            "deliveryTime": 38,
+            "lastMileTravel": 9.4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "9.4 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 22:00:00",
+            "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {},
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹65",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "4.1",
+              "ratingCount": "3.2K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+          "campaignId": "c60daef3-ba87-4935-951d-de92eaf38835"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=128420&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "1004548",
+          "name": "Vaasam Veg Restaurant",
+          "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/14/e568e934-8dcf-4cc9-a85d-78974200f811_96b7d300-dc7d-43d2-a641-ae1b931515e0.jpeg",
+          "locality": "Kumarasamy Nagar",
+          "areaName": "Sholinganalur",
+          "costForTwo": "₹200 for two",
+          "cuisines": ["South Indian", "North Indian"],
+          "avgRating": 4.3,
+          "veg": true,
+          "parentId": "585462",
+          "avgRatingString": "4.3",
+          "totalRatingsString": "1.2K+",
+          "sla": {
+            "deliveryTime": 25,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 22:30:00",
+            "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {},
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹79",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "--"
+            }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=1004548&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "424323",
+          "name": "A2B - Adyar Ananda Bhavan",
+          "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/15/bd471634-9062-48cd-8448-d65cbf98472c_424323.JPG",
+          "locality": "Adityaram Nagar",
+          "areaName": "Kanathur",
+          "costForTwo": "₹250 for two",
+          "cuisines": ["South Indian", "Sweets", "Chinese"],
+          "avgRating": 4.6,
+          "veg": true,
+          "parentId": "22",
+          "avgRatingString": "4.6",
+          "totalRatingsString": "21K+",
+          "promoted": true,
+          "adTrackingId": "cid=36aedcf3-2287-4b1b-bce9-5a08679fe03c~p=3~adgrpid=36aedcf3-2287-4b1b-bce9-5a08679fe03c#ag5~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=424323~plpr=COLLECTION~eid=845154c7-7622-4226-89a1-6e7ed145726c~srvts=1766720368607~collid=80424",
+          "sla": {
+            "deliveryTime": 40,
+            "lastMileTravel": 4.8,
+            "serviceability": "SERVICEABLE",
+            "slaString": "40-50 mins",
+            "lastMileTravelString": "4.8 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 22:30:00",
+            "opened": true
+          },
+          "badges": {
+            "imageBadges": [
+              {
+                "imageId": "Rxawards/_CATEGORY-South%20Indian.png",
+                "description": "Delivery!"
+              }
+            ]
+          },
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textExtendedBadges": {},
+              "textBased": {},
+              "imageBased": {
+                "badgeObject": [
+                  {
+                    "attributes": {
+                      "description": "Delivery!",
+                      "imageId": "Rxawards/_CATEGORY-South%20Indian.png"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹33",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "--"
+            }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+          "campaignId": "36aedcf3-2287-4b1b-bce9-5a08679fe03c"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=424323&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "936102",
+          "name": "Tiffin Shastra",
+          "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/2/f5a13d7f-cff6-42a7-948b-656491a73976_936102.jpg",
+          "locality": "Karapakkam",
+          "areaName": "Sholinganallur",
+          "costForTwo": "₹300 for two",
+          "cuisines": ["South Indian"],
+          "avgRating": 4.5,
+          "veg": true,
+          "parentId": "514756",
+          "avgRatingString": "4.5",
+          "totalRatingsString": "1.3K+",
+          "sla": {
+            "deliveryTime": 18,
+            "lastMileTravel": 1.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "15-20 mins",
+            "lastMileTravelString": "1.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 23:59:00",
+            "opened": true
+          },
+          "badges": {
+            "imageBadges": [
+              {
+                "imageId": "android/static-assets/icons/big_rx.png",
+                "description": "bolt!"
+              },
+              {
+                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                "description": "pureveg"
+              }
+            ]
+          },
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "imageBased": {
+                "badgeObject": [
+                  {
+                    "attributes": {
+                      "description": "bolt!",
+                      "imageId": "android/static-assets/icons/big_rx.png"
+                    }
+                  },
+                  {
+                    "attributes": {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  }
+                ]
+              },
+              "textExtendedBadges": {},
+              "textBased": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹19",
+            "logoCtx": {
+              "text": "BENEFITS"
+            },
+            "footerText": "5 DEALS LEFT",
+            "secondaryHeaderType": "SECONDARY_HEADER_TYPE_USAGE_LIMIT_OFFER"
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "--"
+            }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=936102&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "893295",
+          "name": "Arambam - Flavours of South",
+          "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/28/053b8a61-6f1a-4dfc-87c1-f608204f23c8_ecd6eb7a-afac-4d34-bce0-6f8bd64b9218.png_compressed",
+          "locality": "Eagattur",
+          "areaName": "OMR",
+          "costForTwo": "₹200 for two",
+          "cuisines": ["South Indian", "Healthy Food"],
+          "avgRating": 3.9,
+          "veg": true,
+          "parentId": "581903",
+          "avgRatingString": "3.9",
+          "totalRatingsString": "522",
+          "promoted": true,
+          "adTrackingId": "cid=5ff0d067-f106-4c02-9b30-cb61a7295ec5~p=7~adgrpid=5ff0d067-f106-4c02-9b30-cb61a7295ec5#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=893295~plpr=COLLECTION~eid=4d2659ac-2d7b-4c43-bd75-4d6c75803ab3~srvts=1766720368607~collid=80424",
+          "sla": {
+            "deliveryTime": 35,
+            "lastMileTravel": 9.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-45 mins",
+            "lastMileTravelString": "9.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 15:00:00",
+            "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {},
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "50% OFF",
+            "discountTag": "FLAT DEAL",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "--"
+            }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+          "campaignId": "5ff0d067-f106-4c02-9b30-cb61a7295ec5"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=893295&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "516561",
+          "name": "Udupi Hotel Shree Durga",
+          "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/18/ebe11069-b5b1-4e1c-84b4-b47d24080a54_890d997d-5ce6-454b-852b-14569cfb9120.JPG",
+          "locality": "Karapakkam",
+          "areaName": "Karapakkam",
+          "costForTwo": "₹200 for two",
+          "cuisines": ["South Indian"],
+          "avgRating": 4.6,
+          "veg": true,
+          "parentId": "308750",
+          "avgRatingString": "4.6",
+          "totalRatingsString": "6.0K+",
+          "sla": {
+            "deliveryTime": 15,
+            "lastMileTravel": 1.2,
+            "serviceability": "SERVICEABLE",
+            "slaString": "10-15 mins",
+            "lastMileTravelString": "1.2 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 22:00:00",
+            "opened": true
+          },
+          "badges": {
+            "imageBadges": [
+              {
+                "imageId": "android/static-assets/icons/big_rx.png",
+                "description": "bolt!"
+              }
+            ]
+          },
+          "isOpen": true,
+          "aggregatedDiscountInfoV2": {},
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "imageBased": {
+                "badgeObject": [
+                  {
+                    "attributes": {
+                      "imageId": "android/static-assets/icons/big_rx.png",
+                      "description": "bolt!"
+                    }
+                  }
+                ]
+              },
+              "textExtendedBadges": {},
+              "textBased": {}
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "3.8",
+              "ratingCount": "1.1K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=516561&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "388712",
+          "name": "Yuva Tiffin Center",
+          "cloudinaryImageId": "k9ge3rmbf8t7ozizbykx",
+          "locality": "Babu Nagar",
+          "areaName": "Medavakkam, Perumbakkam",
+          "costForTwo": "₹250 for two",
+          "cuisines": [
+            "South Indian",
+            "Chinese",
+            "Chaat",
+            "Fast Food",
+            "Street Food",
+            "Healthy Food"
+          ],
+          "avgRating": 4.6,
+          "veg": true,
+          "parentId": "557789",
+          "avgRatingString": "4.6",
+          "totalRatingsString": "11K+",
+          "promoted": true,
+          "adTrackingId": "cid=de148018-f6fc-4762-bf30-42ba17c9e35a~p=11~adgrpid=de148018-f6fc-4762-bf30-42ba17c9e35a#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=388712~plpr=COLLECTION~eid=3fbe7734-6a8b-406e-a2df-8f33db556346~srvts=1766720368607~collid=80424",
+          "sla": {
+            "deliveryTime": 37,
+            "lastMileTravel": 7.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "7.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 22:00:00",
+            "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {},
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "₹100 OFF",
+            "subHeader": "ABOVE ₹199",
+            "discountTag": "FLAT DEAL",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "--"
+            }
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+          "campaignId": "de148018-f6fc-4762-bf30-42ba17c9e35a"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=388712&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "342060",
+          "name": "Shri Anandhaas Veg",
+          "cloudinaryImageId": "dd51bd3659a263e80127d0d96ee9bf6a",
+          "locality": "Perumbakkam",
+          "areaName": "Perumbakkam",
+          "costForTwo": "₹250 for two",
+          "cuisines": ["South Indian", "Chinese", "Desserts"],
+          "avgRating": 4.3,
+          "parentId": "11940",
+          "avgRatingString": "4.3",
+          "totalRatingsString": "19K+",
+          "sla": {
+            "deliveryTime": 34,
+            "lastMileTravel": 5.8,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-40 mins",
+            "lastMileTravelString": "5.8 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2025-12-26 22:30:00",
+            "opened": true
+          },
+          "badges": {},
+          "isOpen": true,
+          "type": "F",
+          "badgesV2": {
+            "entityBadges": {
+              "textBased": {},
+              "imageBased": {},
+              "textExtendedBadges": {}
+            }
+          },
+          "aggregatedDiscountInfoV3": {
+            "header": "30% OFF",
+            "subHeader": "UPTO ₹75",
+            "logoCtx": {
+              "text": "BENEFITS"
+            }
+          },
+          "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {},
+            "commsStyling": {}
+          },
+          "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+            }
+          },
+          "reviewsSummary": {},
+          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+          "restaurantOfferPresentationInfo": {},
+          "externalRatings": {
+            "aggregatedRating": {
+              "rating": "4.0",
+              "ratingCount": "1.2K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+          },
+          "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {},
+        "cta": {
+          "link": "swiggy://menu?restaurant_id=342060&source=collection&query=Dosa",
+          "text": "RESTAURANT_MENU",
+          "type": "DEEPLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food"
+      },
+      "relevance": {
+        "type": "RELEVANCE_TYPE_ON_MENU_RETURN",
+        "sectionId": "MENU_RETURN_FOOD"
+      }
+    }
+  }
+]

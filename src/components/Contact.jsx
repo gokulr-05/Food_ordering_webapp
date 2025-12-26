@@ -1,11 +1,16 @@
-import React from 'react'
+import React from 'react';
 
 const Contact = () => {
   return (
     <div>
       <h1>Contact Us</h1>
+      <form>
+        <input type="text" placeholder="name" />
+        <input type="text" placeholder="message" />
+        <button type="submit">Send</button>
+      </form>
     </div>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;

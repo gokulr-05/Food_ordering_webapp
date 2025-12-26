@@ -1,24 +1,13 @@
-import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
-  const [loginBtn, setLoginBtn] = useState("Login");
+  const [loginBtn, setLoginBtn] = useState('Login');
   const [count, setCount] = useState(0);
 
   useEffect(() => {
-    console.log("render=useEffect");
-  }, []);
-
-  useEffect(() => {
-    console.log("render=login updated");
     setCount((prev) => prev + 1);
   }, [loginBtn]);
-
-  useEffect(() => {
-    console.log("render=count updated");
-  }, [count]);
-
-  console.log("render=Header");
 
   return (
     <div className="header">
@@ -44,9 +33,9 @@ const Header = () => {
           <button
             className="loginBtn"
             onClick={() => {
-              loginBtn === "Login"
-                ? setLoginBtn("Logout")
-                : setLoginBtn("Login");
+              loginBtn === 'Login'
+                ? setLoginBtn('Logout')
+                : setLoginBtn('Login');
             }}
           >
             {loginBtn}
